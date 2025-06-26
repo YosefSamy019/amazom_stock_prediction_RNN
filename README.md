@@ -248,3 +248,11 @@ Each diagram shows:
 * Parameter count and shapes
 
 ---
+
+## 🖼️ Trends
+
+<img src="images/img-1.png" width="500">
+<img src="images/img-2.png" width="500">
+<img src="images/img-3.png" width="500">
+
+---
