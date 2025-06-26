@@ -256,3 +256,15 @@ Each diagram shows:
 <img src="images/img-3.png" width="500">
 
 ---
+
+## 🖼️ Evaluation
+
+<img src="images/img-4.png" width="500">
+<img src="images/img-5.png" width="500">
+<img src="images/img-6.png" width="500">
+<img src="images/img-7.png" width="500">
+<img src="images/img-8.png" width="500">
+<img src="images/img-9.png" width="500">
+<img src="images/img-10.png" width="500">
+
+---
