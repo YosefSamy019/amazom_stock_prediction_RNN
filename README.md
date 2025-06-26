@@ -209,7 +209,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn tensorflow
 
 ## 🚀 Live Demo
 Check out the live version (if hosted on Streamlit Cloud or similar):
-[👉 Live App Demo](https://your-deployment-link.com)
+[👉 Live App Demo](https://amazomstockpredictionrnn-bzoyk8mwtzj2ewu8ob7tt7.streamlit.app/)
 
 ### 🖼️ Example Prediction
 
